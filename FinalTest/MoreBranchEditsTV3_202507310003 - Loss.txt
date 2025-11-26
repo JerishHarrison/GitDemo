@@ -1,0 +1,1 @@
+Race=Jerish,Class=Wizard,Aspiration=FindLove,Profession=Professor
